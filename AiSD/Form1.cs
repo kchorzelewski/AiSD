@@ -153,10 +153,42 @@ namespace AiSD
             right = mergeSort(right);
             return left;
         }
-        int[] quickSort(int[] tab)
+       public static void quickSort(int[] arr, int low, int high) 
         {
-            return tab;
+    if (low < high) 
+    {
+        // partition the array around the pivot
+        int pivot = Partition(arr, low, high);
+ 
+        // recursively sort the two parts
+        quickSort(arr, low, pivot - 1);
+        quickSort(arr, pivot + 1, high);
+    }
+}
+
+public static int Partition(int[] arr, int low, int high) 
+{
+    int pivot = arr[high];
+    int i = low - 1;
+
+    for (int j = low; j <= high - 1; j++) 
+    {
+        if (arr[j] <= pivot) 
+        {
+            i++;
+            Swap(arr, i, j);
         }
+    }
+    Swap(arr, i + 1, high);
+    return (i + 1);
+}
+
+public static void Swap(int[] arr, int i, int j) 
+{ 
+    int temp = arr[i]; 
+    arr[i] = arr[j]; 
+    arr[j] = temp; 
+} 
 
         private void sbButton_Click(object sender, EventArgs e)
         {

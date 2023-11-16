@@ -1,0 +1,34 @@
+C:\Users\Admin\Desktop\aisd\AiSD\bin\Debug\net6.0-windows\AiSD.exe
+C:\Users\Admin\Desktop\aisd\AiSD\bin\Debug\net6.0-windows\AiSD.deps.json
+C:\Users\Admin\Desktop\aisd\AiSD\bin\Debug\net6.0-windows\AiSD.runtimeconfig.json
+C:\Users\Admin\Desktop\aisd\AiSD\bin\Debug\net6.0-windows\AiSD.dll
+C:\Users\Admin\Desktop\aisd\AiSD\bin\Debug\net6.0-windows\AiSD.pdb
+C:\Users\Admin\Desktop\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.Form1.resources
+C:\Users\Admin\Desktop\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.AssemblyInfo.cs
+C:\Users\Admin\Desktop\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.dll
+C:\Users\Admin\Desktop\aisd\AiSD\obj\Debug\net6.0-windows\refint\AiSD.dll
+C:\Users\Admin\Desktop\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.pdb
+C:\Users\Admin\Desktop\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.genruntimeconfig.cache
+C:\Users\Admin\Desktop\aisd\AiSD\obj\Debug\net6.0-windows\ref\AiSD.dll
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\bin\Debug\net6.0-windows\AiSD.exe
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\bin\Debug\net6.0-windows\AiSD.deps.json
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\bin\Debug\net6.0-windows\AiSD.runtimeconfig.json
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\bin\Debug\net6.0-windows\AiSD.dll
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\bin\Debug\net6.0-windows\AiSD.pdb
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.Form1.resources
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.dll
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\obj\Debug\net6.0-windows\refint\AiSD.dll
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.pdb
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\obj\Debug\net6.0-windows\AiSD.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\obj\Debug\net6.0-windows\ref\AiSD.dll

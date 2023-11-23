@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\bin\Debug\net6.0-windows\drzewa.exe
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\bin\Debug\net6.0-windows\drzewa.deps.json
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\bin\Debug\net6.0-windows\drzewa.runtimeconfig.json
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\bin\Debug\net6.0-windows\drzewa.dll
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\bin\Debug\net6.0-windows\drzewa.pdb
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\obj\Debug\net6.0-windows\drzewa.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\obj\Debug\net6.0-windows\drzewa.Form1.resources
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\obj\Debug\net6.0-windows\drzewa.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\obj\Debug\net6.0-windows\drzewa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\obj\Debug\net6.0-windows\drzewa.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\obj\Debug\net6.0-windows\drzewa.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\obj\Debug\net6.0-windows\drzewa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\obj\Debug\net6.0-windows\drzewa.dll
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\obj\Debug\net6.0-windows\refint\drzewa.dll
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\obj\Debug\net6.0-windows\drzewa.pdb
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\obj\Debug\net6.0-windows\drzewa.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\studia\aisd\AiSD\drzewa\obj\Debug\net6.0-windows\ref\drzewa.dll

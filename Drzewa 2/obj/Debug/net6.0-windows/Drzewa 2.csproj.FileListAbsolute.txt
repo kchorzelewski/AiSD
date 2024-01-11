@@ -1,0 +1,17 @@
+D:\173080\Drzewa 2\bin\Debug\net6.0-windows\Drzewa 2.exe
+D:\173080\Drzewa 2\bin\Debug\net6.0-windows\Drzewa 2.deps.json
+D:\173080\Drzewa 2\bin\Debug\net6.0-windows\Drzewa 2.runtimeconfig.json
+D:\173080\Drzewa 2\bin\Debug\net6.0-windows\Drzewa 2.dll
+D:\173080\Drzewa 2\bin\Debug\net6.0-windows\Drzewa 2.pdb
+D:\173080\Drzewa 2\obj\Debug\net6.0-windows\Drzewa 2.csproj.AssemblyReference.cache
+D:\173080\Drzewa 2\obj\Debug\net6.0-windows\Drzewa_2.Form1.resources
+D:\173080\Drzewa 2\obj\Debug\net6.0-windows\Drzewa 2.csproj.GenerateResource.cache
+D:\173080\Drzewa 2\obj\Debug\net6.0-windows\Drzewa 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\173080\Drzewa 2\obj\Debug\net6.0-windows\Drzewa 2.AssemblyInfoInputs.cache
+D:\173080\Drzewa 2\obj\Debug\net6.0-windows\Drzewa 2.AssemblyInfo.cs
+D:\173080\Drzewa 2\obj\Debug\net6.0-windows\Drzewa 2.csproj.CoreCompileInputs.cache
+D:\173080\Drzewa 2\obj\Debug\net6.0-windows\Drzewa 2.dll
+D:\173080\Drzewa 2\obj\Debug\net6.0-windows\refint\Drzewa 2.dll
+D:\173080\Drzewa 2\obj\Debug\net6.0-windows\Drzewa 2.pdb
+D:\173080\Drzewa 2\obj\Debug\net6.0-windows\Drzewa 2.genruntimeconfig.cache
+D:\173080\Drzewa 2\obj\Debug\net6.0-windows\ref\Drzewa 2.dll

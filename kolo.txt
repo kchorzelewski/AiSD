@@ -1,0 +1,10 @@
+bubble sort nie będzie
+
+preorder inorder postorder
+kruskal 
+najkrótsza ścieszka digstry
+najdłuższy wpulny podcai
+operacje na drzewach binarnych (wstawianie, usuwanie, poprzednik, następnik)
+kolejka priorytetowa, stos, 
+fifo (first in first out) <- kolejka
+stos (last in first out) 

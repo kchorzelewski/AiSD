@@ -1,0 +1,7 @@
+Opisz w jaki sposób znaleźć nastepnika 
+1. jeżeli jest prawy potomek, to szukamy najmniejszej wartości 
+jeżeli nie ma prawego to musimy wrócić z lewej strony to rodzic jest następnik
+Jeżeli wrócilismy z drugiej storny, to znaczy że go nie ma 
+
+
+inorder, preorder, postorder <- dostanie się jedno
